@@ -30,6 +30,9 @@ To get started with this project, clone the repository to your local machine or 
 
 3. **Verify Message Routing:**
    - Ensure that messages are correctly routed to their respective consumer services based on the topic of interest. The first and second messages should reach the appropriate queues, while the third message should not be delivered to any queue.
+![Screenshot 2024-04-10 144351](https://github.com/carloshernandez201/bbit-learning-labs/assets/147950132/22573ed9-394e-4655-bd3c-7604eec4aa00)
+ ![Screenshot 2024-04-10 144410](https://github.com/carloshernandez201/bbit-learning-labs/assets/147950132/6c59fbad-409e-46d2-9022-739cf0407cd0)
+
 
 ## Common Issues and Troubleshooting
 
